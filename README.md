@@ -1,2 +1,3 @@
-# buy-me-coffee
-# buy-me-coffee
+## Buy Me a Coffee
+
+This repo contains a contract that implements tipping functionality.
